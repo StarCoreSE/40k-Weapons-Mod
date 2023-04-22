@@ -14,7 +14,7 @@
         Its projectiles vary, ranging from sophisticated plasma warheads which burn with the ferocity of a small star for a fraction of a second, to implosive devices which exert destructive gravitational forces upon all those caught within kilometres of the detonation.
         This smaller Mars Pattern Nova Cannon has a maximum range of 10km.
       </Description>
-      <Icon>Textures\icons\NovaCannonThumb.png</Icon>
+      <Icon>Textures\icons\NovaCannonThumb.dds</Icon>
       <CubeSize>Large</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="5" y="6" z="28" />

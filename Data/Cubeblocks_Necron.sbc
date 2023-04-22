@@ -9,7 +9,7 @@
         <SubtypeId>LightParticleWhip</SubtypeId>
       </Id>
       <DisplayName>Necron Light Particle Whip</DisplayName>
-      <Icon>Textures\icons\LightParticleWhipThumb.png</Icon>
+      <Icon>Textures\icons\LightParticleWhipThumb.dds</Icon>
       <CubeSize>Large</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="1" y="1" z="1" />
@@ -50,7 +50,7 @@
         <SubtypeId>ParticleWhip</SubtypeId>
       </Id>
       <DisplayName>Necron Particle Whip</DisplayName>
-      <Icon>Textures\icons\ParticleWhipThumb.png</Icon>
+      <Icon>Textures\icons\ParticleWhipThumb.dds</Icon>
       <CubeSize>Large</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="3" y="2" z="3" />

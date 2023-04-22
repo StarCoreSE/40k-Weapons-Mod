@@ -17,7 +17,7 @@
         Medium Shield Damage
         4km Effective Range
       </Description>
-      <Icon>Textures\GUI\Icons\Cubes\Pyroacid_Icon.png</Icon>
+      <Icon>Textures\GUI\Icons\Cubes\Pyroacid_Icon.dds</Icon>
       <CubeSize>Large</CubeSize>
       <GuiVisible>true</GuiVisible>
       <BlockTopology>TriangleMesh</BlockTopology>
@@ -92,7 +92,7 @@
         Medium Shield Damage
         6km Effective Range
       </Description>
-      <Icon>Textures\GUI\Icons\Cubes\Pyroacid_Icon.png</Icon>
+      <Icon>Textures\GUI\Icons\Cubes\Pyroacid_Icon.dds</Icon>
       <CubeSize>Large</CubeSize>
       <GuiVisible>true</GuiVisible>
       <BlockTopology>TriangleMesh</BlockTopology>
@@ -169,7 +169,7 @@
         6km Targeting Range
         4km Effective Range
       </Description>
-      <Icon>Textures\GUI\Icons\Cubes\Bioplasma_Icon.png</Icon>
+      <Icon>Textures\GUI\Icons\Cubes\Bioplasma_Icon.dds</Icon>
       <CubeSize>Large</CubeSize>
       <GuiVisible>false</GuiVisible>
       <BlockTopology>TriangleMesh</BlockTopology>
@@ -245,7 +245,7 @@
         Low Component Damage
         3km Range
       </Description>
-      <Icon>Textures\GUI\Icons\Cubes\Bioplasma_Icon.png</Icon>
+      <Icon>Textures\GUI\Icons\Cubes\Bioplasma_Icon.dds</Icon>
       <CubeSize>Large</CubeSize>
       <GuiVisible>false</GuiVisible>
       <BlockTopology>TriangleMesh</BlockTopology>
@@ -317,7 +317,7 @@
       <Description>
         Lunges the grid
       </Description>
-      <Icon>Textures\GUI\Icons\Cubes\Bioplasma_Icon.png</Icon>
+      <Icon>Textures\GUI\Icons\Cubes\Bioplasma_Icon.dds</Icon>
       <CubeSize>Large</CubeSize>
       <GuiVisible>false</GuiVisible>
       <BlockTopology>TriangleMesh</BlockTopology>
@@ -385,7 +385,7 @@
         <SubtypeId>NID_HiveDrone</SubtypeId>
       </Id>
       <DisplayName>Strangler Hivedrone Launcher</DisplayName>
-      <Icon>Textures\GUI\Icons\Cubes\Strangler_Hivedrone_Icon.png</Icon>
+      <Icon>Textures\GUI\Icons\Cubes\Strangler_Hivedrone_Icon.dds</Icon>
       <Description>Slow but deadly 
       </Description>
       <CubeSize>Large</CubeSize>
@@ -457,7 +457,7 @@
         <SubtypeId>NID_BioplasmaHivedrone</SubtypeId>
       </Id>
       <DisplayName>Bio-plasma Hivedrone Launcher</DisplayName>
-      <Icon>Textures\GUI\Icons\Cubes\Bioplasma_Hivedrone_Icon.png</Icon>
+      <Icon>Textures\GUI\Icons\Cubes\Bioplasma_Hivedrone_Icon.dds</Icon>
       <Description>Slow but deadly 
       </Description>
       <CubeSize>Large</CubeSize>
