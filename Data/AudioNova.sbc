@@ -10,11 +10,11 @@
         <SubtypeId>NovaFire</SubtypeId>
       </Id>
       <Category>SHOT</Category>
-      <MaxDistance>12000</MaxDistance>
+      <MaxDistance>15000</MaxDistance>
       <PreventSynchronization>0</PreventSynchronization>
       <DynamicMusicCategory>HeavyFight</DynamicMusicCategory>
       <DynamicMusicAmount>35</DynamicMusicAmount>
-      <Volume>6</Volume>
+      <Volume>7</Volume>
       <PitchVariation>10</PitchVariation>
       <DistantSounds>
         <DistantSound DistanceCrossFade="10" Distance="1000" Sound = "NovaFireDist" />
@@ -33,7 +33,7 @@
         <SubtypeId>NovaFireDist</SubtypeId>
       </Id>
       <Category>SHOT</Category>
-      <MaxDistance>12000</MaxDistance>
+      <MaxDistance>15000</MaxDistance>
       <PreventSynchronization>0</PreventSynchronization>
       <DynamicMusicCategory>HeavyFight</DynamicMusicCategory>
       <DynamicMusicAmount>35</DynamicMusicAmount>
@@ -54,11 +54,11 @@
         <SubtypeId>NovaHit</SubtypeId>
       </Id>
       <Category>SHOT</Category>
-      <MaxDistance>6000</MaxDistance>
+      <MaxDistance>8000</MaxDistance>
       <PreventSynchronization>0</PreventSynchronization>
       <DynamicMusicCategory>HeavyFight</DynamicMusicCategory>
       <DynamicMusicAmount>35</DynamicMusicAmount>
-      <Volume>6</Volume>
+      <Volume>7</Volume>
       <PitchVariation>10</PitchVariation>
       <Loopable>true</Loopable>
       <Waves>
