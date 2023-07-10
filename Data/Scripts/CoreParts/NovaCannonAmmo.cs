@@ -44,7 +44,7 @@ namespace Scripts
             AmmoMagazine = "Energy", // SubtypeId of physical ammo magazine. Use "Energy" for weapons without physical ammo.
             AmmoRound = "Nova Plasma Warhead", // Name of ammo in terminal, should be different for each ammo type used by the same weapon. Is used by Shrapnel.
             HybridRound = false, // Use both a physical ammo magazine and energy per shot.
-            EnergyCost = 0.1f, // Scaler for energy per shot (EnergyCost * BaseDamage * (RateOfFire / 3600) * BarrelsPerShot * TrajectilesPerBarrel). Uses EffectStrength instead of BaseDamage if EWAR.
+            EnergyCost = 30000f, // Scaler for energy per shot (EnergyCost * BaseDamage * (RateOfFire / 3600) * BarrelsPerShot * TrajectilesPerBarrel). Uses EffectStrength instead of BaseDamage if EWAR.
             BaseDamage = 1f, // Direct damage; one steel plate is worth 100.
             Mass = 60000f, // In kilograms; how much force the impact will apply to the target.
             Health = 0, // How much damage the projectile can take from other projectiles (base of 1 per hit) before dying; 0 disables this and makes the projectile untargetable.
@@ -404,8 +404,8 @@ namespace Scripts
                     {
                         Enable = true,
                         Length = 5f, //
-                        Width = 0.5f, //
-                        Color = Color(red: 80, green: 80, blue: 100f, alpha: 1), // RBG 255 is Neon Glowing, 100 is Quite Bright.
+                        Width = 1f, //
+                        Color = Color(red: 150, green: 150, blue: 200f, alpha: 1), // RBG 255 is Neon Glowing, 100 is Quite Bright.
                         FactionColor = DontUse, // DontUse, Foreground, Background.
                         VisualFadeStart = 0, // Number of ticks the weapon has been firing before projectiles begin to fade their color
                         VisualFadeEnd = 0, // How many ticks after fade began before it will be invisible.

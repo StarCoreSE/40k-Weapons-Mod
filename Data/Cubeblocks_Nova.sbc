@@ -21,7 +21,7 @@
       <ModelOffset x="0" y="0" z="0" />
       <Model>Models\Cubes\Scene.mwm</Model>
       <Components>
-        <Component Subtype="Construction" Count="4000" />
+        <Component Subtype="Construction" Count="5000" />
         <Component Subtype="GravityGenerator" Count="200" />
         <Component Subtype="Computer" Count="120" />
         <Component Subtype="SmallTube" Count="1060" />
@@ -36,7 +36,7 @@
       </BuildProgressModels>
       <BlockPairName>Nova</BlockPairName>
       <EdgeType>Light</EdgeType>
-      <BuildTimeSeconds>340</BuildTimeSeconds>
+      <BuildTimeSeconds>380</BuildTimeSeconds>
       <WeaponDefinitionId Subtype="Nova" />
       <MountPoints>
         <MountPoint Side="Bottom" StartX="1.0" StartY="13.0" EndX="4.0" EndY="27.0" PropertiesMask="2" />
